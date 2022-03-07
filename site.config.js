@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'wanlinwang',
-  domain: 'thesre.cn',
+  domain: 'https://www.notion.so/d4c61054fcc142f5af624e20fd078b7c',
   author: 'wanlinwang',
 
   // open graph metadata (optional)
